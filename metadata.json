@@ -1,0 +1,6 @@
+{
+  "name": "Bus & Van Tracker",
+  "description": "A live-tracking app for school buses and private vans with Driver, Parent, and Student modules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
